@@ -31,8 +31,7 @@ Includes top, pants, balaclava and bag.
 
 ## AI Disclaimer
 
-This mod was developed with the assistance of Claude (Anthropic) as a learning tool. I used it to understand how SPT modding works, the WTT-CommonLib framework, C# compilation, and JSON config formats. All creative decisions, balancing, and design choices are my own. The AI served as a tutor and pair programmer throughout the process.
-
+This mod was developed with the assistance of Claude (Anthropic) as a learning tool. I used it to understand how SPT modding works, the WTT-CommonLib framework, C# compilation, and JSON config formats.
 ## Credits
 
 - Original Ryzhy assets — Battlestate Games Limited
