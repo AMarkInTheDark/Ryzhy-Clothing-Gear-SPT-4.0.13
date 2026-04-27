@@ -36,6 +36,10 @@
     "handbookPriceRoubles": 8000,
     "addtoBots": true,
     "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      { "containerName": "LOOTCONTAINER_DUFFLE_BAG", "probability": 20 },
+      { "containerName": "LOOTCONTAINER_SCAV_BODY", "probability": 25 }
+    ],
     "addtoTraders": true,
     "traders": {
       "RAGMAN": {
