@@ -10,11 +10,11 @@ Includes top, pants, balaclava and bag.
 - Ryzhy Top — 80,000₽
 - Ryzhy Bottoms — 45,000₽
 
-**Facecover (Ragman LL2)**
+**Facecover (Ragman LL1)**
 - Ryzhy Balaclava — 2,874₽
 - Also spawns in duffle bags and on scav bodies
 
-**Backpack (Ragman LL2)**
+**Backpack (Ragman LL1)**
 - Ryzhy Bag — 11,489₽
 
 ## Requirements
