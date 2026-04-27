@@ -1,0 +1,55 @@
+{
+  "C3D4E5F6A1B2C3D4E5F6A1B3": {
+    "itemTplToClone": "56e335e4d2720b6c058b456d",
+    "parentId": "5448e53e4bdc2d60728b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "assets/content/items/equipment/backpack_ryzhy_bag/item_equipment_backpack_ryzhy.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 2,
+      "Weight": 0.84,
+      "Grids": [
+        {
+          "_id": "D4E5F6A1B2C3D4E5F6A1B2C4",
+          "_name": "main",
+          "_parent": "C3D4E5F6A1B2C3D4E5F6A1B3",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 2,
+            "filters": [{ "Filter": ["54009119af1c881c07000029"] }]
+          }
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ryzhy Bag",
+        "shortName": "Ryzhy Bag",
+        "description": "Ryzhy's trusty bag."
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 8000,
+    "addtoBots": true,
+    "addtoStaticLootContainers": false,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "E5F6A1B2C3D4E5F6A1B2C3D5": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            { "count": 11489, "_tpl": "MONEY_ROUBLES" }
+          ]
+        }
+      }
+    }
+  }
+}

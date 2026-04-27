@@ -1,0 +1,42 @@
+[
+  {
+    "type": "top",
+    "side": ["Usec", "Bear"],
+    "suiteId": "46d500f01fca9a9e61fc4a26",
+    "outfitId": "15cfb1e51d70ae1ee8cc598d",
+    "topId": "abbd3b7828dfe812f051ff20",
+    "handsId": "d5d8cc9182ec9eda7ac64864",
+    "locales": {
+      "en": { "name": "Ryzhy Top", "description": "Tactical Jacket" }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_ryzhy.bundle",
+    "handsBundlePath": "assets/content/hands/hands_ryzhy/hands_ryzhy.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 2,
+    "profileLevel": 18,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 80000,
+    "questRequirements": ["5c1234c286f77406fa13baeb"],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": ["Usec", "Bear"],
+    "suiteId": "cba6983035fc38db7e705d20",
+    "outfitId": "dd535d7d3f8e67b366eacca5",
+    "bottomId": "5c69139adf2acc4155c190ee",
+    "locales": {
+      "en": { "name": "Ryzhy Bottoms", "description": "Tactical Pants" }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_ryzhy.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 2,
+    "profileLevel": 18,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 45000,
+    "questRequirements": ["5c1234c286f77406fa13baeb"],
+    "achievementRequirements": []
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "manifest": [
+    {
+      "key": "assets/content/characters/character/prefabs/top_ryzhy.bundle",
+      "dependencyKeys": ["cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_ryzhy.bundle",
+      "dependencyKeys": ["cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/hands/hands_ryzhy/hands_ryzhy.skin.bundle",
+      "dependencyKeys": ["cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/items/equipment/facecover_ryzhy_balaclava/item_equipment_facecover_ryzhy_balaclava.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle", "cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/items/equipment/backpack_ryzhy_bag/item_equipment_backpack_ryzhy.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle", "cubemaps", "shaders"]
+    }
+  ]
+}

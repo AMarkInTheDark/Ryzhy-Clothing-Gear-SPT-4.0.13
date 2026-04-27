@@ -1,0 +1,51 @@
+{
+  "B215E7C9884DE5084345F7AB": {
+    "itemTplToClone": "572b7f1624597762ae139822",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "assets/content/items/equipment/facecover_ryzhy_balaclava/item_equipment_facecover_ryzhy_balaclava.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.1,
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false
+    },
+    "locales": {
+      "en": {
+        "name": "Ryzhy balaclava",
+        "shortName": "Ryzhy",
+        "description": "A cheap balaclava perfectly warms the ears and saves Ryzhy from excessive attention."
+      }
+    },
+    "fleaPriceRoubles": 3000,
+    "handbookPriceRoubles": 5000,
+    "addtoBots": true,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      { "containerName": "LOOTCONTAINER_DUFFLE_BAG", "probability": 20 },
+      { "containerName": "LOOTCONTAINER_SCAV_BODY", "probability": 25 }
+    ],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "A1B2C3D4E5F6A1B2C3D4E5F7": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            { "count": 2874, "_tpl": "MONEY_ROUBLES" }
+          ]
+        }
+      }
+    }
+  }
+}
