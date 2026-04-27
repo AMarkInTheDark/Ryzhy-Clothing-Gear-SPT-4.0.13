@@ -35,7 +35,7 @@
     "fleaPriceRoubles": 5000,
     "handbookPriceRoubles": 8000,
     "addtoBots": true,
-    "addtoStaticLootContainers": false,
+    "addtoStaticLootContainers": true,
     "addtoTraders": true,
     "traders": {
       "RAGMAN": {
