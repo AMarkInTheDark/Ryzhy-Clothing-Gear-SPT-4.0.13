@@ -2,7 +2,7 @@
 
 Backport of Ryzhy's clothing, facecover and bag for SPT 4.0.13.
 
-Includes custom top, pants, balaclava and bag.
+Includes top, pants, balaclava and bag.
 
 ## Items
 
